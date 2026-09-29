@@ -1,4 +1,16 @@
-### About Me
+<p align="center">
+  <img src="./assets/george-tang-banner.png" width="100%" alt="George Tang - Cloud Security Engineer">
+</p>
+
+<p align="center">
+  <img src="https://github.com/GeorgeTangSec.png" width="170" alt="George Tang">
+</p>
+
+# GEORGE TANG
+
+## Cloud Security Engineer
+
+## About Me
 
 Cloud Security Engineer focused on designing, securing, monitoring, and automating enterprise cloud environments.
 

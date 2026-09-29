@@ -3,12 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/GeorgeTangSec.png" width="170" alt="George Tang">
+  <img src="https://github.com/GeorgeTangSec.png" width="150" alt="George Tang">
 </p>
 
-# GEORGE TANG
+<h1 align="center">GEORGE TANG</h1>
 
-## Cloud Security Engineer
+<h3 align="center">Cloud Security Engineer</h3>
+
+<p align="center">
+  AWS • Terraform • SIEM • Zero Trust • DevSecOps • AI Security • AI-Assisted Security Operations
+</p>
 
 ## About Me
 
